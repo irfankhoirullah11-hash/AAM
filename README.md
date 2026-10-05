@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AAM</title>
+    
 </head>
 <h1>Alnitak, Alnilam, Mintaka</h1>
 <h2>mencintaimu adalah sebuah petaka</h2>
